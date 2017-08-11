@@ -1,0 +1,53 @@
+/****** Main Styling ******/
+
+#user-stories{
+   
+  width: 70%;
+  text-align: left;
+}
+
+#user-stories-text{
+  margin: 3%;
+}
+
+code{
+  text-align: center;
+}
+
+h3, p{
+  text-align: left;
+}
+
+
+h1{
+  text-align: left;
+}
+
+body {
+	font-family: 'Saira', sans-serif;
+	font-size: 16px;
+	color: #222;
+	
+	text-align: left;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+  margin-left: 20%;
+}
+
+footer {
+  text-align:center;
+	margin-top: 60px;
+}
+
+a {
+	color: #2574A9;
+}
+/****** Logo Div Styling ******/
+
+img {
+	margin: 20px auto 0 auto;
+	display: block;
+}
